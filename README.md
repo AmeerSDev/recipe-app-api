@@ -1,4 +1,4 @@
-# recipe-app-api
+# Recipe-app-api
 Project Goals:
 - Setting up a project using Docker configuration.
 - Using GitHub actions.
